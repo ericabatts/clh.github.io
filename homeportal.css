@@ -1,0 +1,47 @@
+.boxed{
+    width: 125;
+    border: 1px solid #666633;
+    border-width: 7px;
+    padding: 3em;
+    text-align: left;
+    font-size: 17;
+}
+
+h1{
+    font-size: 70;
+   font-family: 'Boogaloo', cursive;
+    color: #990033;
+    
+}
+
+h2{
+    font-size: 20;
+    font-family: 'Boogaloo', cursive;
+    color: #990033;
+    
+    
+}
+
+h3{
+    font-size: 30;
+    font-family: 'Boogaloo', cursive;
+    color: #00cc99;
+}
+.button {
+    background-color: #990033;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: 'Boogaloo', cursive;
+}
+    
+    
+    
+
+
