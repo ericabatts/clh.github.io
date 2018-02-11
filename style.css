@@ -1,0 +1,44 @@
+body{
+	font-family: 'Boogaloo', cursive;
+	color: black;
+	font-weight: bold;
+	
+}
+
+ul {
+	
+    margin: 0px;
+    padding: 0px;
+	list-style-type: none;
+    
+}
+
+ul li {
+	width: 207px;
+	height: 40px;
+	line-height: 40px;
+    float: left;
+	background-color: #691D42 ;
+	text-align: center;
+
+	
+}
+
+ul li a {
+    display: block;
+    color: white;
+    text-decoration: none;
+
+}
+
+ul li a:hover {
+    background-color: #26217F;
+}
+ul li ul li{
+	display: none;
+}
+
+ul li:hover ul li{
+	display: block;
+}
+
